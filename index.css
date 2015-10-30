@@ -1,0 +1,49 @@
+header a{
+	text-decoration: none;
+}
+
+header a{
+    color: #000; /* Цвет ссылок */
+}
+header a:visited {
+    color: #000; /* Цвет посещенных ссылок */
+}
+header a:active {
+    color: #000; /* Цвет активных ссылок */
+}
+header{
+	width: 920px;
+	border: 1px solid red;
+	margin: 0 auto;
+}
+#my_text{
+	position: relative;
+	top:60px;
+	left:0;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	color:#FFFF00;
+}
+#slider{
+	border: 1px solid #000;
+	margin: 0 auto;
+	width: 800px;
+	height: 100px;
+}
+#slider_img{
+	width:100%;
+	height: 100%;
+}
+.wrapper{
+	border: 1px solid #000;
+	margin: 50px auto;
+	width: 920px;
+	padding: 5px;
+
+}
+.paragraf1{
+	width: 500px;
+	border: 1px solid #ddd;
+	margin: 0 auto;
+}
